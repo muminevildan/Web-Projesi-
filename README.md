@@ -93,4 +93,4 @@ Test temel olarak üç ana alanı ölçer:
  * Erteleme eğilimi
  * Stres yönetimi
  * Çalışma kapasitesi
-Bu metni okul projenin sunumunda veya dokümantasyonunda doğrudan kullanabilirsin. Başka bir bölümü detaylandırmamı ister misin?
+
